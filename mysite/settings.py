@@ -25,7 +25,7 @@ SECRET_KEY = '13k^w-c=@63=p9%z@k%(ymf)m1o38@($f%z98ap_pd!ym22dw0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zhx.moe']
 
 
 # Application definition
